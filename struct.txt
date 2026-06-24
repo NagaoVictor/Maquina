@@ -1,0 +1,6 @@
+domain/ Sensor, Motor, Maquina, Alarme ....
+patterns/ Observer, State, Command, Mediator, Strategy
+core/ engine de simulação -> ticj da simulação, atualização de estado, processamento de eventos e coordenação geral
+services/ logging, salvar CSV/JSON, Análise de dados e leitura/escrita
+app/ Streamlit, Flask e Dashboards
+
